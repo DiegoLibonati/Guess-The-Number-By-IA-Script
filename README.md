@@ -42,3 +42,7 @@ numbers_chosen = []
 `https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Guess%20the%20number%20by%20IA%20script`
 
 ## Video
+
+
+https://user-images.githubusercontent.com/99032604/198900547-66bc8d9a-1698-4ba3-8f3d-5e7315c864af.mp4
+
