@@ -31,7 +31,7 @@ I made a Python script that allows the AI to guess `X` amount of times the numbe
 
 ## Portfolio Link
 
-`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Guess%20the%20number%20by%20IA%20script`
+`https://diegolibonati.github.io/DiegoLibonatiWeb/#/projects?q=Guess%20The%20Number%20By%20IA%20Script`
 
 ## Video
 
